@@ -67,3 +67,6 @@ total_size = size_gb × 2.7  # multi-rendition multiplier
 Then corrected by yt-dlp spot-check factor on 7 random videos.
 
 Expected accuracy: **±10–15%**
+
+
+final deployment link https://yt-storage-analyser.vercel.app/
