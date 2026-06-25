@@ -5,7 +5,7 @@ Uses YouTube Data API v3 for bulk metadata + yt-dlp spot-checks for calibration.
 
 ---
 
-## Tomorrow's Build Order
+##  Build Order
 
 ### 1. Setup (5 min)
 ```bash
